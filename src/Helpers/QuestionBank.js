@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    question: "What country has the highest life expectancy?",
+    optionA: "Brazil",
+    optionB: "India",
+    optionC: "HongKong",
+    optionD: "Australia",
+    answer: "C",
+  },
+  {
+    question: "What year was the United Nations established?",
+    optionA: "1945",
+    optionB: "1946",
+    optionC: "1950",
+    optionD: "1955",
+    answer: "A",
+  },
+  {
+    question: "How many elements are in the periodic table?",
+    optionA: "10",
+    optionB: "118",
+    optionC: "95",
+    optionD: "138",
+    answer: "B",
+  },
+  {
+    question: "What company was originally called Cadabra?",
+    optionA: "Facebook",
+    optionB: "Amazon",
+    optionC: "Youtube",
+    optionD: "Twitch",
+    answer: "B",
+  },
+  {
+    question: "Aureolin is a shade of what color?",
+    optionA: "Orange",
+    optionB: "Green",
+    optionC: "Yellow",
+    optionD: "Blue",
+    answer: "C",
+  },
+];
